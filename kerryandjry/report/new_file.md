@@ -1,8 +1,9 @@
-1. * > ---[](https://)
-title: 程式設計報告
-ags: Templates, Talk
-description: View the slide with "Slide Mode".
+- title: 程式設計報告
+- ags: Templates, Talk
+- description: View the slide with "Slide Mode".
+
 ---
+
 ## java 報告
 
 - 第二組
@@ -84,13 +85,17 @@ description: View the slide with "Slide Mode".
 
 ---
 
-### Switch case
-
-![](https://img.onl/F6cvyo)
+### Switch 
 
 ---
 
-### if 
+![](https://i.imgur.com/sUwyUTD.png)
+
+---
+
+### If 
+
+---
 
 ![](https://img.onl/GSUe9I)
 ---
